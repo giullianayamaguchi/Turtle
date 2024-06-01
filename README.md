@@ -15,7 +15,7 @@ Em resumo, o Turtle não é apenas um jogo de exploração espacial. É uma jorn
 
 O Turtle, seu novo jogo de exploração espacial, já está disponível e pronto para jogar! Movimente-se pelo espaço com facilidade e descubra o prazer de controlar sua própria tartaruga espacial!
 
-<h4>Desenvolvido pela Linguangen:</h4>
+<h4>Desenvolvido pela Linguangem:</h4>
 <ul>
 	<li><img aling="center" alt="Html5" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></li>
 </ul>
