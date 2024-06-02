@@ -2,7 +2,7 @@
 <img src="img/Logo.png" alt="Logo do Projeto" width="100" height="100" align="center">
 <p>
 <strong>Turtle: Explorando o Espaço com Simplicidade e Diversão</strong>
-
+<img src="img/Mini-Game.gif" width="480" height="480">
 Turtle é um jogo envolvente que transforma a exploração do espaço em uma experiência divertida e interativa. Desenvolvido com Python e a biblioteca Turtle, este jogo oferece uma maneira intuitiva e cativante de controlar uma tartaruga usando as teclas 'W', 'A', 'S' e 'D'.
 
 Ao iniciar o Turtle, os jogadores são recebidos por um ambiente dinâmico, onde a tartaruga pode se mover livremente. Cada toque nas teclas revela uma nova direção, proporcionando uma experiência imersiva e prazerosa.
